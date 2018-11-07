@@ -41,7 +41,8 @@ unittest.main()
 ## 测试类
 * 类的测试本质还是对类中的方法进行测试
 
-`unittest`模块中一些常用的`断言方法`
+`unittest`模块中一些常用的`断言方法`   
+
 方法 | 用途
 ---- | ---
 `assertEqual(a, b)`  | 核实 a == b
